@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadJogosMVC_v6_heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1FB431-D021-4079-B90F-D94D306A5F90}|CadJogosMVC_v1\\CadJogosMVC_v1.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadjogosmvc_v6_heranca\\cadjogosmvc_v1\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1FB431-D021-4079-B90F-D94D306A5F90}|CadJogosMVC_v1\\CadJogosMVC_v1.csproj|solutionrelative:cadjogosmvc_v1\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadJogosMVC_v6_heranca\\CadJogosMVC_v1\\Controllers\\JogoController.cs",
+              "RelativeDocumentMoniker": "CadJogosMVC_v1\\Controllers\\JogoController.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadJogosMVC_v6_heranca\\CadJogosMVC_v1\\Controllers\\JogoController.cs",
+              "RelativeToolTip": "CadJogosMVC_v1\\Controllers\\JogoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:09:45.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

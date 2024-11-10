@@ -1,0 +1,49 @@
+﻿@model JogoViewModel
+
+
+<h2 class="TituloCadastro" >Cadastro de Jogos</h2>
+
+<form asp-action="salvar">
+    <input type="hidden" name="Operacao" value="@ViewBag.Operacao" />
+
+    <label class="col-form-label">Id</label>
+    
+    @if (ViewBag.Operacao == "I")
+    {
+        <input asp-for="Id" class="form-control" />
+    }
+    else
+    {
+        <input asp-for="Id" class="form-control disabled" readonly />
+    }
+    <span asp-validation-for="Id" class="text-danger"></span>    
+    <br />
+
+
+
+    <label class="col-form-label">Descrição</label>
+    <input asp-for="Descricao" class="form-control" />
+    <span asp-validation-for="Descricao" class="text-danger"></span>
+    <br />
+
+    <label class="col-form-label">Valor</label>
+    <input type="text" asp-for="valor" class="form-control" />
+    <span asp-validation-for="valor" class="text-danger"></span>
+    <br />
+
+    <label class="col-form-label">Categoria</label>
+    <input asp-for="CategoriaId" class="form-control" />
+
+    <span asp-validation-for="CategoriaId" class="text-danger"></span>
+    <br />
+
+    <label class="col-form-label">Data</label>
+    <input type="date" asp-for="Data" value="@Model.Data.ToString("yyyy-MM-dd")" class="form-control" />
+    <span asp-validation-for="Data" class="text-danger"></span>
+    <br />
+
+
+    <br /><br />
+    <button type="submit" class="btn btn-success">Gravar</button>
+    <button type="reset" class="btn btn-danger">Restaurar campos</button>
+</form>

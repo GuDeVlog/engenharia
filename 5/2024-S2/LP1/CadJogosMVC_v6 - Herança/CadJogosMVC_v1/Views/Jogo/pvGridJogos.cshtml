@@ -1,0 +1,20 @@
+﻿@model List<JogoViewModel>
+<table class="table table-striped">
+    <tr>
+        <th>Código</th>
+        <th>Nome</th>
+        <th>Data de lançamento</th>
+        <th>Categoria</th>
+        <th>Valor</th>
+    </tr>
+    @foreach (var jogo in Model)
+    {
+        <tr>
+            <td>@jogo.Id</td>
+            <td>@jogo.Descricao</td>
+            <td>@jogo.DataAquisicao.ToShortDateString()</td>
+            <td>@jogo.CategoriaID - @jogo.DescricaoCategoria</td>
+            <td>@jogo.Valor.ToString("0.00")</td>
+        </tr>
+    }
+</table>

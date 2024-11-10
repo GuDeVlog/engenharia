@@ -1,0 +1,14 @@
+﻿<div class="text-center">
+    <form asp-action="calculaTabuada">
+        Digite aqui o número:
+        <input type="number" name="numero" />
+        <input type="submit" value="Calcular tabuada" />
+    </form>
+    @if (Model > 0)
+    {
+        @for (int i = 0; i <= 10; i++)
+        {
+            <h3>@Model x @i = @(Model * i) <BR></h3>
+        }
+    }
+</div>

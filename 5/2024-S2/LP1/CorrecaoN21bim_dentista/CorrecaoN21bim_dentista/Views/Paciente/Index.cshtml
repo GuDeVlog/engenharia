@@ -1,0 +1,28 @@
+﻿@model List<PacienteViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Listagem de Pacientes</h2>
+
+<a href="/paciente/create">Cadastrar novo paciente</a>
+<br />
+
+<table class="table table-responsive">
+    <tr>
+        <th>Ações</th>
+        <th>Id/th>
+        <th>Nome</th>
+    </tr>
+    @foreach (var paciente in Model)
+    {
+        <tr>
+            <td>
+                <a href="/paciente/Edit?id=@paciente.Id">Editar</a>
+                &nbsp;
+                <a href="javascript:apagarPaciente(@paciente.Id)">Apagar</a>
+            </td>
+            <td>@paciente.Id</td>
+            <td>@paciente.Nome</td>
+        </tr>
+    }
+</table>

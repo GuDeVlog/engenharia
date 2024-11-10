@@ -1,0 +1,26 @@
+﻿@model ResultadoViewModel;
+
+@{ /*
+    for (int n = 0; n <= 10; n++)
+    {
+        <marquee scrollamount="@n"> <h5> @n</h5> </marquee>
+    } */
+}
+
+
+<form asp-action="EfetuaSoma">
+
+    <b>Valor 1: </b>
+    <input type="number" name="valor1" value="@Model.Valor1" />
+    <br />
+    Valor 2:
+    <input type="number" name="valor2" value="@Model.Valor2" />
+    <br>
+    <input type="submit" value="Somar" />
+    <br />
+    <br />
+    <br />
+    Resultado:
+    <input type="number" value="@Model.Resultado" disabled />
+
+</form>

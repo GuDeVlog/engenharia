@@ -1,0 +1,10 @@
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\bin\Debug\Calculadora_Potencia_ex_10.1.exe.config
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\bin\Debug\Calculadora_Potencia_ex_10.1.exe
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\bin\Debug\Calculadora_Potencia_ex_10.1.pdb
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\obj\Debug\Calculadora_Potencia_ex_10.1.csproj.AssemblyReference.cache
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\obj\Debug\Calculadora_Potencia_ex_10._1.Form1.resources
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\obj\Debug\Calculadora_Potencia_ex_10._1.Properties.Resources.resources
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\obj\Debug\Calculadora_Potencia_ex_10.1.csproj.GenerateResource.cache
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\obj\Debug\Calculadora_Potencia_ex_10.1.csproj.CoreCompileInputs.cache
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\obj\Debug\Calculadora_Potencia_ex_10.1.exe
+C:\Users\Mobile\Documents\facul\5_semestre\LP1\Calculadora_Potencia_ex_10.1\Calculadora_Potencia_ex_10.1\obj\Debug\Calculadora_Potencia_ex_10.1.pdb

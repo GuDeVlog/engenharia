@@ -1,0 +1,92 @@
+﻿using CadAluno.Model;
+using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CadAluno.DAO
+{
+    public class AlunoDAO
+    {
+        /// <summary>
+        /// Método usado para inserir um registro no BD
+        /// </summary>
+        /// <param name="aluno">o objeto aluno contendo os campos</param>
+        public void Inserir(AlunoViewModel aluno)
+        {
+            SqlConnection conexao = ConexaoBD.GetConexao();
+            try
+            {
+
+                SqlParameter[] p = new SqlParameter[]
+                {
+                    new SqlParameter("id", aluno.Id),
+                    new SqlParameter("nome", aluno.Nome),
+                    new SqlParameter("cidadeId", aluno.CidadeId),
+                    new SqlParameter("mensalidade", aluno.Mensalidade),
+                    new SqlParameter("dataNascimento", aluno.DataNascimento)
+
+                };
+
+                string sql =
+                "insert into alunos(id, nome, mensalidade, cidadeId, dataNascimento)" +
+                "values ( @id, @nome, @mensalidade, @cidadeId, @dataNascimento)";
+                SqlCommand cmd = new SqlCommand(sql, conexao);
+                cmd.Parameters.AddRange(p);
+                cmd.ExecuteNonQuery();
+            }
+            finally
+            {
+                conexao.Close();
+            }
+        }
+
+        public void Excluir(int id)
+        {
+            var cx = ConexaoBD.GetConexao();
+            try
+            {
+                string sql = $"delete alunos where id ={id}";
+
+                var cmd = new SqlCommand(sql, cx);
+                cmd.ExecuteNonQuery();
+            }
+            finally
+            {
+                cx.Close();
+            }
+
+
+        }
+
+
+        public void Alterar(AlunoViewModel aluno)
+        {
+            SqlConnection cx = ConexaoBD.GetConexao();
+            try
+            {
+                String mensalidade = aluno.Mensalidade
+                    .ToString().Replace(',', '.');
+
+                string sql = $"set dateformat dmy;" +
+                    $"update alunos set " +
+                    $"nome='{aluno.Nome}'," +
+                    $"cidadeId={aluno.CidadeId}, " +
+                    $"mensalidade={mensalidade}," +
+                    $"dataNascimento='{aluno.DataNascimento}' " +
+                    $"where id={aluno.Id}";
+
+                SqlCommand cmd = new SqlCommand(sql, cx);
+                cmd.ExecuteNonQuery();
+            }
+            finally
+            {
+                cx.Close();
+            }
+        }
+
+
+    }
+}

@@ -1,0 +1,34 @@
+﻿@model List<JogoViewModel>
+
+<h2>Listagem de jogos</h2>
+
+<a href="/jogo/create" class="btn btn-success">Novo jogo</a>
+<br />
+<br />
+
+<table class="table table-responsive table-hover">
+    <tr>
+        <th>Ações</th>
+        <th>Id</th>
+        <th>Descrição</th>
+        <th>Valor</th>
+        <th>Data</th>
+        <th>Categoria</th>
+    </tr>
+
+    @foreach (var jogo in Model)
+    {
+        <tr>
+            <td>
+                <a href="/jogo/edit?id=@jogo.Id"><img src="~/img/edit.png" height="10%" width="10%"/></a>
+                <a href="javascript:confirmaExclusaoJogo(@jogo.Id)"><img src="~/img/delete.png" /></a>
+            </td>
+            <td>@jogo.Id</td>
+            <td>@jogo.Descricao</td>
+            <td>@jogo.valor.ToString("0.00")</td>
+            <td>@jogo.Data.ToShortDateString()</td>
+            <td>@jogo.CategoriaId</td>
+        </tr>
+    }
+
+</table>

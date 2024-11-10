@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h2 class="text-center">Consulta de endereço utilizando Chamada de API</h2>
+<table class="table table-striped">
+    <caption></caption>
+    <tr>
+        <td>Estado</td>
+        <td><input type="text" id="estado" maxlength="2" value="SP" class="form-control" /></td>
+    </tr>
+    <tr>
+        <td>Cidade</td>
+        <td><input type="text" id="cidade" value="São Bernardo do Campo" class="form-control" /></td>
+    </tr>
+    <tr>
+        <td>Rua/Avenida</td>
+        <td><input type="text" id="rua" class="form-control" /> </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <input type="button" value="Pesquisar" onclick="consultar()" class="btn btn-success" />
+        </td>
+    </tr>
+</table>
+<br />
+<div id="resultado">
+</div>

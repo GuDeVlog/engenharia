@@ -1,0 +1,54 @@
+﻿@model List<AtendimentoViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Listagem de Atendimentos</h2>
+
+<a href="/atendimento/create">Cadastrar novo atendimento</a>
+<br />
+
+<table class="table table-responsive">
+    <tr>
+        <th>Ações</th>
+        <th>Id</th>        
+        <th>Preço</th>
+        <th>Data</th>
+        <th>Procedimento</th>
+        <th>Paciente</th>
+    </tr>
+    @foreach (var atendimento in Model)
+    {
+        <tr>
+            <td>
+                <a href="/atendimento/Edit?id=@atendimento.Id">Editar</a>
+                &nbsp;
+                <a href="javascript:apagarAtendimento(@atendimento.Id)">Apagar</a>
+            </td>
+            <td>@atendimento.Id</td>
+            <td>@atendimento.Preco.ToString("0.00")</td>
+            <td>@atendimento.DataProcedimento.ToShortDateString()</td>
+            <td>
+                @atendimento.TipoProcedimento
+                @if (@atendimento.TipoProcedimento == 1)
+                {
+                    <span>Obturação</span>
+                }
+                else @if (@atendimento.TipoProcedimento == 2)
+                {
+                    <span>Limpeza</span>
+                }
+                else @if (@atendimento.TipoProcedimento == 3)
+                {
+                    <span>Canal</span>
+                }
+                else @if (@atendimento.TipoProcedimento == 4)
+                {
+                    <span>Extração</span>
+                }
+                
+                
+            </td>
+            <td>@atendimento.PacienteId</td>
+        </tr>
+    }
+</table>

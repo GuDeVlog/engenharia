@@ -1,0 +1,10 @@
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\bin\Debug\CadJogos1.exe.config
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\bin\Debug\CadJogos1.exe
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\bin\Debug\CadJogos1.pdb
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\obj\Debug\CadJogos1.csproj.AssemblyReference.cache
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\obj\Debug\CadJogos1.Form1.resources
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\obj\Debug\CadJogos1.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\obj\Debug\CadJogos1.csproj.GenerateResource.cache
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\obj\Debug\CadJogos1.exe
+X:\Professores\Prof. Eduardo\2024-S2\LP1\CadJogos-corrigido\CadJogos1\obj\Debug\CadJogos1.pdb

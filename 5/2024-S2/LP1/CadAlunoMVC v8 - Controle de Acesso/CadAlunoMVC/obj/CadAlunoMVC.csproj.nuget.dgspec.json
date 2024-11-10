@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj",
+        "projectName": "CadAlunoMVC",
+        "projectPath": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj",
+        "packagesPath": "C:\\Users\\Mobile\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mobile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+    "W:\\Professores\\Prof. Eduardo\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj": {}
+  },
+  "projects": {
+    "W:\\Professores\\Prof. Eduardo\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\Professores\\Prof. Eduardo\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj",
+        "projectName": "CadAlunoMVC",
+        "projectPath": "W:\\Professores\\Prof. Eduardo\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj",
+        "packagesPath": "C:\\Users\\pro6761\\.nuget\\packages\\",
+        "outputPath": "W:\\Professores\\Prof. Eduardo\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pro6761\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> 2acc824e1e54d71703a449f1842d423b57669ec3
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+<<<<<<< HEAD
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+=======
+>>>>>>> 2acc824e1e54d71703a449f1842d423b57669ec3
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Microsoft.CodeAnalysis.Razor": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+<<<<<<< HEAD
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+=======
+>>>>>>> 2acc824e1e54d71703a449f1842d423b57669ec3
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+>>>>>>> 2acc824e1e54d71703a449f1842d423b57669ec3
+        }
+      }
+    }
+  }
+}

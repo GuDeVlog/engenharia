@@ -1,0 +1,9 @@
+is_global = true
+build_property.RootNamespace = CadAlunoMVC
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Mobile\Documents\facul\engenharia_da_computacao\5\2024-S2\LP1\CadAlunoMVC v8 - Controle de Acesso\CadAlunoMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+build_property.ProjectDir = W:\Professores\Prof. Eduardo\2024-S2\LP1\CadAlunoMVC v8 - Controle de Acesso\CadAlunoMVC\
+>>>>>>> 2acc824e1e54d71703a449f1842d423b57669ec3

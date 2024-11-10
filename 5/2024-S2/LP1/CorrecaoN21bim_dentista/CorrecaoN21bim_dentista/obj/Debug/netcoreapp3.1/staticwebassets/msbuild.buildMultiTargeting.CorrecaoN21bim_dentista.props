@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CorrecaoN21bim_dentista.props" />
+</Project>

@@ -1,0 +1,71 @@
+﻿@model CurriculoViewModel
+
+
+<h1>Curriculo VITAE</h1>
+<span class="TituloSublinhado">
+    @Model.Nome
+</span>
+<hr />
+
+&nbsp;&nbsp; @Model.Telefone
+<br />
+
+&nbsp;&nbsp; @Model.Email
+<br />
+&nbsp;&nbsp; @Model.Idade
+anos
+<br />
+
+
+<span class="TituloSublinhado">
+    Pretenção salarial
+</span>
+<hr />
+
+&nbsp;&nbsp; @Model.PretensaoSalarial.ToString("c")
+
+
+<span class="TituloSublinhado">
+    Resumo Profissional
+</span>
+<hr />
+
+&nbsp;&nbsp; @Model.Resumo
+
+
+<span class="TituloSublinhado">
+    Formação acadêmica 1
+</span>
+<hr />
+
+&nbsp;&nbsp; @Model.FormacaoAcademica1
+
+
+
+<span class="TituloSublinhado">
+    Formação acadêmica 2
+</span>
+<hr />
+
+&nbsp;&nbsp; @Model.FormacaoAcademica2
+
+
+<span class="TituloSublinhado">
+    Idiomas
+</span>
+<hr />
+
+<ul>
+    <li>@Model.Idioma1</li>
+    <li>@Model.Idioma2</li>
+</ul>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\lp1\\cadastroalunov1\\cadastroalunov1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|solutionrelative:cadastroalunov1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\lp1\\cadastroalunov1\\cadastroalunov1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|solutionrelative:cadastroalunov1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\lp1\\cadastroalunov1\\cadastroalunov1\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|solutionrelative:cadastroalunov1\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\lp1\\cadastroalunov1\\cadastroalunov1\\dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|solutionrelative:cadastroalunov1\\dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\lp1\\cadastroalunov1\\cadastroalunov1\\views\\aluno\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|solutionrelative:cadastroalunov1\\views\\aluno\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\lp1\\cadastroalunov1\\cadastroalunov1\\dao\\conexaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|solutionrelative:cadastroalunov1\\dao\\conexaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\lp1\\cadastroalunov1\\cadastroalunov1\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|solutionrelative:cadastroalunov1\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|c:\\users\\mobile\\documents\\facul\\5_semestre\\lp1\\cadastroalunov1\\cadastroalunov1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B85D8B5-793E-450B-8011-685AC11941ED}|CadastroAlunoV1\\CadastroAlunoV1.csproj|solutionrelative:cadastroalunov1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CadastroAlunoV1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CadastroAlunoV1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T01:34:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CadastroAlunoV1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CadastroAlunoV1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T01:12:03.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroAlunoV1\\Program.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Program.cs",
+              "RelativeToolTip": "CadastroAlunoV1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T01:00:23.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexaoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\DAO\\ConexaoDAO.cs",
+              "RelativeDocumentMoniker": "CadastroAlunoV1\\DAO\\ConexaoDAO.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\DAO\\ConexaoDAO.cs",
+              "RelativeToolTip": "CadastroAlunoV1\\DAO\\ConexaoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:57:30.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroAlunoV1\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "CadastroAlunoV1\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T00:56:06.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Views\\Aluno\\Form.cshtml",
+              "RelativeDocumentMoniker": "CadastroAlunoV1\\Views\\Aluno\\Form.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Views\\Aluno\\Form.cshtml",
+              "RelativeToolTip": "CadastroAlunoV1\\Views\\Aluno\\Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T00:56:04.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\DAO\\AlunoDAO.cs",
+              "RelativeDocumentMoniker": "CadastroAlunoV1\\DAO\\AlunoDAO.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\DAO\\AlunoDAO.cs",
+              "RelativeToolTip": "CadastroAlunoV1\\DAO\\AlunoDAO.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:26:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "CadastroAlunoV1\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\5_semestre\\LP1\\CadastroAlunoV1\\CadastroAlunoV1\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "CadastroAlunoV1\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:45:26.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿@model DadosExpoenteViewModel
+
+<form  asp-action="calcular">
+    <h2>Base</h2>
+    <input type="number" name="Param_base" value="@Model.Base" />
+
+    <h2>Expoente</h2>
+    <input type="number" name="param_expoente" value="@Model.Expoente"/>
+
+    <br>
+    <input type="submit" />
+    <br>
+    <br>
+    <h2>Resposta</h2>
+    <input type="number" name="param_resposta" readonly  value="@Model.Resposta" />
+
+</form>

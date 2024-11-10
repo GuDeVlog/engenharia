@@ -1,0 +1,68 @@
+﻿@model CurriculoViewModel
+
+
+<h1>Crud de currículo</h1>
+
+<form action="Salvar">
+
+    <input type="hidden" value="@ViewBag.operacao" name="operacao" />
+
+    <label class="col-form-label">Id</label>
+
+    @if (@ViewBag.operacao == "I")
+    {
+        <input type="text" name="id" value="@Model.Id" class="form-control" />
+    }
+    else
+    {
+        <input type="text" name="id" value="@Model.Id" class="form-control" readonly />
+    }
+    <br />
+
+    <label class="col-form-label">Nome</label>
+    <input type="text" name="nome" value="@Model.Nome" class="form-control" />
+    <br />
+
+    <label class="col-form-label">Email</label>
+    <input type="email" name="email" value="@Model.Email" class="form-control" />
+    <br />
+
+    <label class="col-form-label">Telefone</label>
+    <input type="text" name="telefone" value="@Model.Telefone" class="form-control" />
+    <br />
+
+    <label for="DataNascimento" class="control-label">Data de nascimento</label>
+    <input type="date" Name="DataNascimento" value="@Model.DataNascimento.ToString("yyyy-MM-dd")" />
+    <br />
+
+    <label class="col-form-label">Pretenção Salarial</label>
+    <input type="text" name="PretensaoSalarial" value="@Model.PretensaoSalarial" class="form-control" />
+    <br />
+
+    <label class="col-form-label">Cargo pretendido</label>
+    <input type="text" name="CargoPretendido" value="@Model.CargoPretendido" class="form-control" />
+    <br />
+
+
+    <label class="col-form-label">Resumo profissional</label>
+    <input type="text" name="resumo" value="@Model.Resumo" class="form-control" />
+    <br />
+
+    <label class="col-form-label">Formação acadêmica 1</label>
+    <input type="text" name="FormacaoAcademica1" value="@Model.FormacaoAcademica1" class="form-control" />
+    <br />
+
+    <label class="col-form-label">Formação acadêmica 2</label>
+    <input type="text" name="FormacaoAcademica2" value="@Model.FormacaoAcademica2" class="form-control" />
+    <br />
+
+    <label class="col-form-label">Idioma 1</label>
+    <input type="text" name="Idioma1" value="@Model.Idioma1" class="form-control" />
+    <br />
+
+    <label class="col-form-label">Idioma 2</label>
+    <input type="text" name="Idioma2" value="@Model.Idioma2" class="form-control" />
+    <br />
+
+    <input type="submit" class="btn btn-success" />
+</form>

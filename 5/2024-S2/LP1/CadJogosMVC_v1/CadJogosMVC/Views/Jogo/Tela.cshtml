@@ -1,0 +1,26 @@
+﻿@model JogoViewModel
+
+
+<h2>Cadastro de Jogos</h2>
+
+<form asp-action="salvar">
+
+    <label class="col-form-label">Id</label>
+
+    <input name="Id" value="@Model.Id" class="form-control" />
+
+    <label class="col-form-label">Descrição</label>
+    <input name="Descricao" value="@Model.Descricao" class="form-control" />
+
+    <label class="col-form-label">Valor</label>
+    <input type="text" name="valor" value="@Model.valor" class="form-control" />
+
+    <label class="col-form-label">Categoria</label>
+    <input type="number" name="CategoriaId" value="@Model.CategoriaId" class="form-control" />
+
+    <label class="col-form-label">Data</label>
+    <input type="date" name="Data" value="@Model.Data.ToString("yyyy-MM-dd")" class="form-control" />
+    <br /><br />
+    <button type="submit" class="btn btn-success">Gravar</button>
+    <button type="reset" class="btn btn-danger">Restaurar campos</button>
+</form>

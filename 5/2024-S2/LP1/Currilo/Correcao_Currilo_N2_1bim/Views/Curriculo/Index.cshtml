@@ -1,0 +1,49 @@
+﻿@model List<CurriculoViewModel>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Currículos cadastrados</h1>
+
+<a href="/curriculo/NovoRegistro" class="btn btn-info">Novo registro</a>
+<br />
+
+<table class="table table-hover">
+    <tr>
+        <td>Ações</td>
+        <td>Nome</td>
+        <td>Telefone</td>
+        <td>Email</td>
+        <td>Idade</td>
+    </tr>
+
+    @foreach (var cv in Model)
+    {
+        <tr>
+            <td>
+                <a href="/curriculo/editar?id=@cv.Id">Editar</a>
+                &nbsp;
+                <a href="javascript:apaga(@cv.Id)">Apagar</a>
+                &nbsp;
+                <a href="/curriculo/exibir?id=@cv.Id">Exibir</a>
+            </td>
+            <td>@cv.Nome</td>
+            <td>@cv.Telefone</td>
+            <td>@cv.Email</td>
+            <td>@cv.Idade</td>
+        </tr>
+    }
+
+</table>
+
+
+<script>
+    function apaga(id) {
+        if (confirm('Apaga mesmo?'))
+            location.href = "/curriculo/Delete?id=" + id;
+    }
+</script>
+
+

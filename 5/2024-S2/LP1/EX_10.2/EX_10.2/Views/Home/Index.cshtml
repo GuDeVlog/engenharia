@@ -1,0 +1,21 @@
+﻿@model double
+<form asp-action="Calcular">
+    <h1>Conversor de medidas</h1>
+
+    <h3>Digite o valor em metros</h3>
+    <input type="number" name="valor" />
+    <br />
+    <h3>Selecione a unidade de medida</h3>
+    <select name="unidadeMedida">
+        <option value="0" >centrímetro</option>
+        <option value="1">milímetro</option>
+        <option value="2">quilometro</option>
+        <option value="3">pé</option>
+        <option value="4">milha</option>
+    </select>
+    <br />
+    <input type="submit" />
+    <br />
+    <h3>Resposta</h3>
+    <input type="text" name="resposta" readonly value="@Model"/>
+</form>

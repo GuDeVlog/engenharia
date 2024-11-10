@@ -1,0 +1,10 @@
+C:\eduardo\LP1\CadAluno\CadAluno\bin\Debug\CadAluno.exe.config
+C:\eduardo\LP1\CadAluno\CadAluno\bin\Debug\CadAluno.exe
+C:\eduardo\LP1\CadAluno\CadAluno\bin\Debug\CadAluno.pdb
+C:\eduardo\LP1\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.AssemblyReference.cache
+C:\eduardo\LP1\CadAluno\CadAluno\obj\Debug\CadAluno.Properties.Resources.resources
+C:\eduardo\LP1\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.GenerateResource.cache
+C:\eduardo\LP1\CadAluno\CadAluno\obj\Debug\CadAluno.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\CadAluno\CadAluno\obj\Debug\CadAluno.exe
+C:\eduardo\LP1\CadAluno\CadAluno\obj\Debug\CadAluno.pdb
+C:\eduardo\LP1\CadAluno\CadAluno\obj\Debug\CadAluno.Form1.resources

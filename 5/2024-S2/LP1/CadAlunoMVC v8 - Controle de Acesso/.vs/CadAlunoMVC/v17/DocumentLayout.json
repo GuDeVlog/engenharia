@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\controllers\\padraocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\controllers\\padraocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\dao\\cidadedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\dao\\cidadedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\dao\\padraodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\dao\\padraodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\dao\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\dao\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\views\\cidade\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\views\\cidade\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\views\\aluno\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\views\\aluno\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\models\\cidadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\models\\cidadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\models\\padraoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\models\\padraoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\models\\alunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\models\\alunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|c:\\users\\mobile\\documents\\facul\\engenharia_da_computacao\\5\\2024-s2\\lp1\\cadalunomvc v8 - controle de acesso\\cadalunomvc\\cadalunomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E25F4B06-1CBE-46F2-8350-70ABE44F7D60}|CadAlunoMVC\\CadAlunoMVC.csproj|solutionrelative:cadalunomvc\\cadalunomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CadAlunoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T06:28:45.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "CadAlunoMVC\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T06:28:46.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CadAlunoMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T06:28:46.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\CidadeController.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Controllers\\CidadeController.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\CidadeController.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Controllers\\CidadeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Startup.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Startup.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Startup.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Startup.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PadraoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\PadraoController.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Controllers\\PadraoController.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Controllers\\PadraoController.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Controllers\\PadraoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Aluno\\Form.cshtml",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Views\\Aluno\\Form.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Aluno\\Form.cshtml",
+              "RelativeToolTip": "CadAlunoMVC\\Views\\Aluno\\Form.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T06:28:46.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PadraoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\PadraoDAO.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\DAO\\PadraoDAO.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\PadraoDAO.cs",
+              "RelativeToolTip": "CadAlunoMVC\\DAO\\PadraoDAO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "CadAlunoMVC\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T06:28:46.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CidadeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\CidadeDAO.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\DAO\\CidadeDAO.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\CidadeDAO.cs",
+              "RelativeToolTip": "CadAlunoMVC\\DAO\\CidadeDAO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Cidade\\Form.cshtml",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Views\\Cidade\\Form.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Cidade\\Form.cshtml",
+              "RelativeToolTip": "CadAlunoMVC\\Views\\Cidade\\Form.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T06:28:46.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlunoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\AlunoDAO.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\DAO\\AlunoDAO.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\AlunoDAO.cs",
+              "RelativeToolTip": "CadAlunoMVC\\DAO\\AlunoDAO.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\DAO\\ConexaoBD.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\ConexaoBD.cs",
+              "RelativeToolTip": "CadAlunoMVC\\DAO\\ConexaoBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AlunoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Models\\AlunoViewModel.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Models\\AlunoViewModel.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Models\\AlunoViewModel.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Models\\AlunoViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Cidade\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Views\\Cidade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Cidade\\Index.cshtml",
+              "RelativeToolTip": "CadAlunoMVC\\Views\\Cidade\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T06:28:46.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HelperDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\HelperDAO.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\DAO\\HelperDAO.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\DAO\\HelperDAO.cs",
+              "RelativeToolTip": "CadAlunoMVC\\DAO\\HelperDAO.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CidadeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Models\\CidadeViewModel.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Models\\CidadeViewModel.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Models\\CidadeViewModel.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Models\\CidadeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PadraoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Models\\PadraoViewModel.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Models\\PadraoViewModel.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Models\\PadraoViewModel.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Models\\PadraoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CadAlunoMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-20T06:28:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CadAlunoMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:28:46.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CadAlunoMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T06:28:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CadAlunoMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj",
+              "RelativeDocumentMoniker": "CadAlunoMVC\\CadAlunoMVC.csproj",
+              "ToolTip": "C:\\Users\\Mobile\\Documents\\facul\\engenharia_da_computacao\\5\\2024-S2\\LP1\\CadAlunoMVC v8 - Controle de Acesso\\CadAlunoMVC\\CadAlunoMVC.csproj",
+              "RelativeToolTip": "CadAlunoMVC\\CadAlunoMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T06:28:46.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

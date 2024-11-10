@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Correcao_Currilo_N2_1bim.props" />
+</Project>
